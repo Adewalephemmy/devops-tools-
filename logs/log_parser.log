@@ -1,0 +1,4 @@
+2025-08-21 14:10:33,296 - INFO - Found 2 errors in ../logs/sample.log
+2025-08-21 19:09:24,017 - INFO - Parsed log file logs/sample.log: {'INFO': 2, 'ERROR': 1, 'WARNING': 1, 'CRITICAL': 1}
+2025-08-21 19:09:24,018 - INFO - Results exported to reports/summary.json
+2025-08-21 19:09:24,018 - INFO - Results exported to reports/summary.csv

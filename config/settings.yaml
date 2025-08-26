@@ -1,0 +1,3 @@
+log_file: "logs/sample.log"
+output_json: "reports/summary.json"
+output_csv: "reports/summary.csv"

@@ -1,0 +1,5 @@
+2025-08-19 12:00:01 INFO Service started
+2025-08-19 12:05:13 ERROR Database connection failed
+2025-08-19 12:06:12 WARNING High memory usage
+2025-08-19 12:07:45 INFO Retrying connection
+2025-08-19 12:08:01 CRITICAL System crash detected
