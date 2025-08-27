@@ -1,6 +1,9 @@
 import logging
 import os
 
+# make sure logs/ folder exists
+os.makedirs("logs", exist_ok=True)
+
 LOG_FILE = os.path.join("logs", "test.log")
 
 logging.basicConfig(
